@@ -1,0 +1,23 @@
+{
+  "name": "eslint",
+  "version": "1.0.0",
+  "description": "Crear varible *cardNumber* y pedir al usuario que señale el numero de su tarjeta sin espacios \r > herramienta prompt()",
+  "main": "index.js",
+  "dependencies": {
+    "eslint": "^4.16.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/conois/TarjetaDeCredito.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/conois/TarjetaDeCredito/issues"
+  },
+  "homepage": "https://github.com/conois/TarjetaDeCredito#readme"
+}
